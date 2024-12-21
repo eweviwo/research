@@ -1,0 +1,133 @@
+Research Development
+--------------------
+
+#Welcome (amateur or professional) researcher.
+#This txt document guides our research interest for the project at a high level. 
+#Research is ONLY for the project's content development. 
+#Communication will be guided by initials, sectional groupings and the use of BNF for our context. 
+#The goal isn't perfection, the project will continuously improve its margin of error. 
+#We invite your input.
+#Thank You. 
+
+#Producers and Presenters will extract this document for episode recording. 
+#Their to-do list covers research familiarisation, subject scoping, concept development, pre-production, production and post-production
+
+#Research planning will be done for 3 seasons at a time. 
+#Season One - Inititated
+#Season Two - Unintiated
+#Season Three - Unintiated
+
+Common Initials 
+***************
+
+TA  - Thematic Area
+PRA - Particular Research Area
+PD  - Possible Destination 
+PI  - Person of Interest
+
+Sectional Groupings
+*******************
+
+Header - Information mostly abstracted into BNF that can be used as variables or constants in season and episode planning. 
+	 Headers will prepare TAs and PRAs.
+
+Season - A sequence of related episodes for a time period. 
+	 Seasons will use PRAs.
+
+Episode - A podcast recording. 
+	  Episodes will use PRAs, PDs and PIs.
+
+Research materials - Various sources that provide information or facts.
+		     They will be listed at the end of every season.
+
+Backus–Naur Form (BNF) Convention to be used
+********************************************
+
+<> symbol will contain a variable or constant (short) information text. 
+::= symbol means what is on the left must be replaced with what is on the right.
+| symbol means seperate alternatives
+
+Eg. 
+
+<full-name> ::= <first-name> <middle-name> <last-name>
+
+<middle-name> ::= <day-born-name> <ethnic-name> | <day-born-name> | <ethnic-name>
+
+This will translate as: 
+
+Full name consists of first name followed by middle name and then last name. 
+
+Middle name consist of day name followed by an ethnic name or only day name or only ethnic name. 
+
+***********************
+SEASON ONE (undergoing)
+***********************
+
+Header
+``````
+
+TA  - 	<Ewe Origins> 
+      	<Socialisation> 
+	<Sociologist> 
+	<Kinship>
+	<Basic Literacy>
+
+PRA - 	<Ewe Origins> ::= <Ancestral Beginnings> <Migration Stories> <Settling in Ghana>
+      	
+	<Socialisation> ::= <Language> <Culture> <Traditions>
+	<Language> ::= <Foundational Science> <Common Issues> <Statistics> <Learning Solutions>
+
+	<Notable Ewe Personalities> ::= <Field of Culture or Tradition (studies)> <Notable Contribution>	
+	<Field of Culture or Tradition (studies)> ::= <Sociology>
+	<Sociology> ::= <Meaning> <Practise> <Notable Ewes>
+	<Notable Ewes> ::= <G. K. Nukunya>
+
+	<Kinship> ::= <Meaning of Family> <Family Structure>
+
+	<Basic Literacy> ::= <Introduction to Language> <How to Learn It> <Numbers and Aphabets>
+
+PD  - 	NA
+ 
+PI  - 	Linguist, Historian, Anthropologist, Sociologist, Tutor
+
+Episodes 
+````````
+
+EP1 - 	[Pubished]
+	<Language>
+	Will be about Ewe language and the youth
+	PI  - Linguist
+
+EP2 - 	[Pubished]
+	<Migration Stories>
+	Will be about the brief history of our migration stories 
+	PI  - Historian, Anthropologist 
+
+EP3 - 	[Pubished]
+	<Basic Literacy>
+	Will be about Ewe literacy lessons
+	PI  - Tutor
+
+EP4 - 	<Basic Literacy>
+	Will be about Ewe literacy lessons
+	PI  - Tutor
+
+EP5 - 	<Kinship>
+	Will be about family meaning and structure
+
+EP6 - 	<Notable Ewes>
+	Will be about Emeritus Prof. G. K. Nukunya
+
+
+Reference Materials
+```````````````````
+
+Book - Ewe Law Property (Second Edition) by A.K.P. Kludze 
+Book - The Ewe in Pre-Colonial Times by D.E.K. Amenumey
+Book - Tradition and Chang in Ghana by G.K. Nukunya 
+Book - Ewe Handbook (Vol 1) Edited by Francis Agbodeka
+Thesis - Language Panning for National Development: The Case of Ghana by Paul Kofi Agbedor
+Scan - Ewe Basic Course by Warburton Irene: And Others
+Book - Stages of Life: An Autobiography by G. K. Nukunya
+
+
