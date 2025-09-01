@@ -9,62 +9,64 @@ SEASON ONE (undergoing)
 Header
 ``````
 
-TA  - 	<Ewe Origins> 
-      	<Socialisation> 
-	<Sociologist> 
-	<Kinship>
-	<Basic Literacy>
+TA 
+<Ewe Origins> 
+<Socialisation> 
+<Sociologist> 
+<Kinship>
+<Basic Literacy>
 
-PRA - 	<Ewe Origins> ::= <Ancestral Beginnings> <Migration Stories> <Settling in Ghana>
+PRA
+<Ewe Origins> ::= <Ancestral Beginnings> <Migration Stories> <Settling in Ghana>
       	
-	<Socialisation> ::= <Language> <Culture> <Traditions>
-	<Language> ::= <Foundational Science> <Common Issues> <Statistics> <Learning Solutions>
+<Socialisation> ::= <Language> <Culture> <Traditions>
+<Language> ::= <Foundational Science> <Common Issues> <Statistics> <Learning Solutions>
 
-	<Notable Ewe Personalities> ::= <Field of Culture or Tradition (studies)> <Notable Contribution>	
-	<Field of Culture or Tradition (studies)> ::= <Sociology>
-	<Sociology> ::= <Meaning> <Practise> <Notable Ewes>
-	<Notable Ewes> ::= <G. K. Nukunya>
+<Notable Ewe Personalities> ::= <Field of Culture or Tradition (studies)> <Notable Contribution>	
+<Field of Culture or Tradition (studies)> ::= <Sociology>
+<Sociology> ::= <Meaning> <Practise> <Notable Ewes>
+<Notable Ewes> ::= <G. K. Nukunya>
 
-	<Kinship> ::= <Meaning of Family> <Family Structure>
+<Kinship> ::= <Meaning of Family> <Family Structure>
 
-	<Basic Literacy> ::= <Introduction to Language> <How to Learn It> <Numbers and Aphabets>
+<Basic Literacy> ::= <Introduction to Language> <How to Learn It> <Numbers and Aphabets>
 
-PD  - 	NA
+PD
+Not Available
  
-PI  - 	Linguist, Historian, Anthropologist, Sociologist, Tutor
+PI
+Linguist, Historian, Anthropologist, Sociologist, Tutor
 
 Episodes 
 ````````
 
-EP1 - 	[Pubished]
-	<Language>
-	Will be about Ewe language and the youth
-	PI  - Linguist
+EP1 - [Pubished]
+<Language>
+Will be about Ewe language and the youth
+PI  - Linguist
 
-EP2 - 	[Pubished]
-	<Migration Stories>
-	Will be about the brief history of our migration stories 
-	PI  - Historian, Anthropologist 
+EP2 - [Pubished]
+<Migration Stories>
+Will be about the brief history of our migration stories 
+PI  - Historian, Anthropologist 
 
-EP3 - 	[Pubished]
-	<Basic Literacy>
-	Will be about Ewe literacy lessons
-	PI  - Tutor
+EP3 - [Pubished]
+<Basic Literacy>
+Will be about Ewe literacy lessons
+PI  - Tutor
 
-EP4 - 	<Basic Literacy>
-	Will be about Ewe literacy lessons
-	PI  - Tutor
+EP4 - <Basic Literacy>
+Will be about Ewe literacy lessons
+PI  - Tutor
 
-EP5 - 	<Kinship>
-	Will be about family meaning and structure
+EP5 - <Kinship>
+Will be about family meaning and structure
 
-EP6 - 	<Notable Ewes>
-	Will be about Emeritus Prof. G. K. Nukunya
-
+EP6 - <Notable Ewes>
+Will be about Emeritus Prof. G. K. Nukunya
 
 Reference Materials
 ```````````````````
-
 Book - Ewe Law Property (Second Edition) by A.K.P. Kludze 
 Book - The Ewe in Pre-Colonial Times by D.E.K. Amenumey
 Book - Tradition and Chang in Ghana by G.K. Nukunya 
@@ -72,6 +74,3 @@ Book - Ewe Handbook (Vol 1) Edited by Francis Agbodeka
 Thesis - Language Panning for National Development: The Case of Ghana by Paul Kofi Agbedor
 Scan - Ewe Basic Course by Warburton Irene: And Others
 Book - Stages of Life: An Autobiography by G. K. Nukunya
-
-
-
