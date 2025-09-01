@@ -65,8 +65,8 @@ Will be about family meaning and structure
 EP6 - <Notable Ewes>
 Will be about Emeritus Prof. G. K. Nukunya
 
-Reference Materials
-```````````````````
+References
+``````````
 Book - Ewe Law Property (Second Edition) by A.K.P. Kludze 
 Book - The Ewe in Pre-Colonial Times by D.E.K. Amenumey
 Book - Tradition and Chang in Ghana by G.K. Nukunya 
@@ -74,3 +74,4 @@ Book - Ewe Handbook (Vol 1) Edited by Francis Agbodeka
 Thesis - Language Panning for National Development: The Case of Ghana by Paul Kofi Agbedor
 Scan - Ewe Basic Course by Warburton Irene: And Others
 Book - Stages of Life: An Autobiography by G. K. Nukunya
+
