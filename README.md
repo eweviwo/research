@@ -10,7 +10,7 @@ Common Initials in the research documentation are as follows;
 - TA  - Thematic Area (Relating to a broad topic of research)
 - PRA - Particular Research Area (Relating to subtopic under a thematic area)
 - PD  - Possible Destination (Relating to required physical travel)
-- PI  - Person of Interest (Relating to interating with a particulr professional or personality)
+- PI  - Person of Interest (Relating to interacting with a particulr professional or personality)
 
 The Backus–Naur Form (BNF) convention to be used in the research documentation are as follows; 
 - <> symbol will contain a variable or constant (short) information text. 
