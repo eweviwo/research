@@ -1,63 +1,6 @@
-Research Development
---------------------
-
-#Welcome (amateur or professional) researcher.
-#This txt document guides our research interest for the project at a high level. 
-#Research is ONLY for the project's content development. 
-#Communication will be guided by initials, sectional groupings and the use of BNF for our context. 
-#The goal isn't perfection, the project will continuously improve its margin of error. 
-#We invite your input.
-#Thank You. 
-
-#Producers and Presenters will extract this document for episode recording. 
-#Their to-do list covers research familiarisation, subject scoping, concept development, pre-production, production and post-production
-
-#Research planning will be done for 3 seasons at a time. 
 #Season One - Inititated
 #Season Two - Unintiated
 #Season Three - Unintiated
-
-Common Initials 
-***************
-
-TA  - Thematic Area
-PRA - Particular Research Area
-PD  - Possible Destination 
-PI  - Person of Interest
-
-Sectional Groupings
-*******************
-
-Header - Information mostly abstracted into BNF that can be used as variables or constants in season and episode planning. 
-	 Headers will prepare TAs and PRAs.
-
-Season - A sequence of related episodes for a time period. 
-	 Seasons will use PRAs.
-
-Episode - A podcast recording. 
-	  Episodes will use PRAs, PDs and PIs.
-
-Research materials - Various sources that provide information or facts.
-		     They will be listed at the end of every season.
-
-Backus–Naur Form (BNF) Convention to be used
-********************************************
-
-<> symbol will contain a variable or constant (short) information text. 
-::= symbol means what is on the left must be replaced with what is on the right.
-| symbol means seperate alternatives
-
-Eg. 
-
-<full-name> ::= <first-name> <middle-name> <last-name>
-
-<middle-name> ::= <day-born-name> <ethnic-name> | <day-born-name> | <ethnic-name>
-
-This will translate as: 
-
-Full name consists of first name followed by middle name and then last name. 
-
-Middle name consist of day name followed by an ethnic name or only day name or only ethnic name. 
 
 ***********************
 SEASON ONE (undergoing)
@@ -129,5 +72,6 @@ Book - Ewe Handbook (Vol 1) Edited by Francis Agbodeka
 Thesis - Language Panning for National Development: The Case of Ghana by Paul Kofi Agbedor
 Scan - Ewe Basic Course by Warburton Irene: And Others
 Book - Stages of Life: An Autobiography by G. K. Nukunya
+
 
 
