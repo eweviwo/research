@@ -20,9 +20,11 @@ The Backus–Naur Form (BNF) convention to be used in the research documentation
 Example. 
 
 < full-name > ::= < first-name > < middle-name > < last-name >
+
 Full name consists of first name followed by middle name and then last name. 
 
 < middle-name > ::= < day-born-name > < ethnic-name > | < day-born-name > | <ethnic-name >
+
 Middle name consist of day name followed by an ethnic name or only day name or only ethnic name.
 
 In the midst of varied intellectual opinions, we encourage the following as much as possible
