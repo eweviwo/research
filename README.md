@@ -21,11 +21,11 @@ Example.
 
 < full-name > ::= < first-name > < middle-name > < last-name >
 
-Full name consists of first name followed by middle name and then last name. 
+This translates to Full name consists of first name followed by middle name and then last name. 
 
 < middle-name > ::= < day-born-name > < ethnic-name > | < day-born-name > | <ethnic-name >
 
-Middle name consist of day name followed by an ethnic name or only day name or only ethnic name.
+This translates to Middle name consist of day name followed by an ethnic name or only day name or only ethnic name.
 
 In the midst of varied intellectual opinions, we encourage the following as much as possible
 1. The goal of the research isn't perfection. The project will continuously improve its margin of error so be encouraged to make a contribution.
